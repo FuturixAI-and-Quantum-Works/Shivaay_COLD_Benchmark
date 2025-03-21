@@ -1,0 +1,6 @@
+Database: evaluation_db
+Total Samples: 3739182
+Correct Answers: 3215338
+Invalid Answers: 757
+Overall Accuracy: 85.99%
+Accuracy (excluding invalids): 86.01%

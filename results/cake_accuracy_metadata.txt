@@ -1,0 +1,6 @@
+Database: cake_evaluation_db
+Total Samples: 2887948
+Correct Answers: 2610379
+Invalid Answers: 0
+Overall Accuracy: 90.39%
+Accuracy (excluding invalids): 90.39%

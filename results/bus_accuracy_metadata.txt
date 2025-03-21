@@ -1,0 +1,6 @@
+Database: bus_evaluation_db
+Total Samples: 834044
+Correct Answers: 686328
+Invalid Answers: 0
+Overall Accuracy: 82.29%
+Accuracy (excluding invalids): 82.29%

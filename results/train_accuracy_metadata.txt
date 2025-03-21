@@ -1,0 +1,6 @@
+Database: train_evaluation_db
+Total Samples: 1213112
+Correct Answers: 1091352
+Invalid Answers: 0
+Overall Accuracy: 89.96%
+Accuracy (excluding invalids): 89.96%

@@ -1,0 +1,6 @@
+Database: tree_evaluation_db
+Total Samples: 846044
+Correct Answers: 786270
+Invalid Answers: 0
+Overall Accuracy: 92.93%
+Accuracy (excluding invalids): 92.93%
